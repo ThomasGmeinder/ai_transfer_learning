@@ -4,7 +4,7 @@ ai_transfer_learning Repository
 Summary
 -------
 
-This repository provides scripts and training data to perform transfer learning on a mobilenet image detection model using Tensorflow 2. The purpose is to use a model trained on image net and replace the classification layer with a new classifier that can detect if an image contains hotdogs or not. 
+This repository provides scripts and training data to perform transfer learning with Tensorflow 2 on a mobilenet image detection model. The purpose is to use a model trained on image net and replace the classification layer with a new classifier that can detect if an image contains hotdogs or not. 
 
 
 Setup
