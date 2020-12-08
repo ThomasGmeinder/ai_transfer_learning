@@ -6,6 +6,7 @@ Summary
 
 This repository provides scripts and training data to perform transfer learning with Tensorflow 2 on a mobilenet image detection model. The purpose is to use a model trained on image net and replace the classification layer with a new classifier that can detect if an image contains hotdogs or not. 
 
+Information about the motivation can be found here :) https://www.youtube.com/watch?v=vIci3C4JkL0
 
 Setup
 -----
